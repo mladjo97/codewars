@@ -1,28 +1,28 @@
 # Table of Content: 
 
 ## C# solutions:
-	>> [https://github.com/mladjo97/codewars/c-sharp/Anagrams.cs](Anagrams.cs)
-	>> [https://github.com/mladjo97/codewars/c-sharp/BitCalculator.cs](BitCalculator.cs)
-	>> [https://github.com/mladjo97/codewars/c-sharp/DeleteNth.cs](DeleteNth.cs)
-	>> [https://github.com/mladjo97/codewars/c-sharp/Order.cs](Order.cs)
-	>> [https://github.com/mladjo97/codewars/c-sharp/RangeExtractor.cs](RangeExtractor.cs)
-	>> [https://github.com/mladjo97/codewars/c-sharp/ValidParentheses.cs](ValidParentheses.cs)
+	>> (Anagrams.cs)[./c-sharp/Anagrams.cs]
+	>> (BitCalculator.cs)[./c-sharp/BitCalculator.cs]
+	>> (DeleteNth.cs)[./c-sharp/DeleteNth.cs]
+	>> (Order.cs)[./c-sharp/Order.cs]
+	>> (RangeExtractor.cs)[./c-sharp/RangeExtractor.cs]
+	>> (ValidParentheses.cs)[./c-sharp/ValidParentheses.cs]
 
 ## JavaScript solutions:
-	>> [https://github.com/mladjo97/codewars/javascript/alphabetPosition.js](alphabetPosition.js)
-	>> [https://github.com/mladjo97/codewars/javascript/chainAddingFunction.js](chainAddingFunction.js)
-	>> [https://github.com/mladjo97/codewars/javascript/humanReadableDuration.js](humanReadableDuration.js)
-	>> [https://github.com/mladjo97/codewars/javascript/namesStringFormat.js](namesStringFormat.js)
-	>> [https://github.com/mladjo97/codewars/javascript/nextBiggerNumber.js](nextBiggerNumber.js)
-	>> [https://github.com/mladjo97/codewars/javascript/observedPin.js](observedPin.js)
-	>> [https://github.com/mladjo97/codewars/javascript/sumStringsAsNums.js](sumStringsAsNums.js)
-	>> [https://github.com/mladjo97/codewars/javascript/tenMinuteWalk.js](tenMinuteWalk.js)
+	>> (alphabetPosition.js)[./javascript/alphabetPosition.js]
+	>> (chainAddingFunction.js)[./javascript/chainAddingFunction.js]
+	>> (humanReadableDuration.js)[./javascript/humanReadableDuration.js]
+	>> (namesStringFormat.js)[./javascript/namesStringFormat.js]
+	>> (nextBiggerNumber.js)[./javascript/nextBiggerNumber.js]
+	>> (observedPin.js)[./javascript/observedPin.js]
+	>> (sumStringsAsNums.js)[./javascript/sumStringsAsNums.js]
+	>> (tenMinuteWalk.js)[./javascript/tenMinuteWalk.js]
 
 ## Python solutions:
-	>> [https://github.com/mladjo97/codewars/python/detect_pangram.py](detect_pangram.py)
-	>> [https://github.com/mladjo97/codewars/python/loop_counter.py](loop_counter.py)
-	>> [https://github.com/mladjo97/codewars/python/move_zeros_to_end.py](move_zeros_to_end.py)
-	>> [https://github.com/mladjo97/codewars/python/pete_baker.py](pete_baker.py)
-	>> [https://github.com/mladjo97/codewars/python/pick_peaks.py](pick_peaks.py)
-	>> [https://github.com/mladjo97/codewars/python/shortest_word.py](shortest_word.py)
-	>> [https://github.com/mladjo97/codewars/python/sudoku_solver_bfs.py](sudoku_solver_bfs.py)
+	>> (detect_pangram.py)[./python/detect_pangram.py]
+	>> (loop_counter.py)[./python/loop_counter.py]
+	>> (move_zeros_to_end.py)[./python/move_zeros_to_end.py]
+	>> (pete_baker.py)[./python/pete_baker.py]
+	>> (pick_peaks.py)[./python/pick_peaks.py]
+	>> (shortest_word.py)[./python/shortest_word.py]
+	>> (sudoku_solver_bfs.py)[./python/sudoku_solver_bfs.py]
