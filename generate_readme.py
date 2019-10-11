@@ -23,9 +23,9 @@ for dirpath, dirnames, filenames in os.walk(os.getcwd()):
             continue
         
         if '.cs' in filename:
-            cs_files += '\t>> [' + filename + '](c-sharp/' + filename + ')\n'
+            cs_files += '\t>> [' + filename + '](https://github.com/mladjo97/codewars/blob/master/c-sharp/' + filename + ')\n'
         if '.js' in filename:
-            js_files += '\t>> (' + filename + ')[./javascript/' + filename + ']\n'
+            js_files += '\t>> (' + filename + ')[https://github.com/mladjo97/codewars/blob/master/javascript/' + filename + ']\n'
         if '.py' in filename:
             py_files += '\t>> (' + filename + ')[./python/' + filename + ']\n'
 

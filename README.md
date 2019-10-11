@@ -1,22 +1,22 @@
 # Table of Content: 
 
 ## C# solutions:
-	>> [Anagrams.cs](c-sharp/Anagrams.cs)
-	>> [BitCalculator.cs](c-sharp/BitCalculator.cs)
-	>> [DeleteNth.cs](c-sharp/DeleteNth.cs)
-	>> [Order.cs](c-sharp/Order.cs)
-	>> [RangeExtractor.cs](c-sharp/RangeExtractor.cs)
-	>> [ValidParentheses.cs](c-sharp/ValidParentheses.cs)
+	>> [Anagrams.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/Anagrams.cs)
+	>> [BitCalculator.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/BitCalculator.cs)
+	>> [DeleteNth.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/DeleteNth.cs)
+	>> [Order.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/Order.cs)
+	>> [RangeExtractor.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/RangeExtractor.cs)
+	>> [ValidParentheses.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/ValidParentheses.cs)
 
 ## JavaScript solutions:
-	>> (alphabetPosition.js)[./javascript/alphabetPosition.js]
-	>> (chainAddingFunction.js)[./javascript/chainAddingFunction.js]
-	>> (humanReadableDuration.js)[./javascript/humanReadableDuration.js]
-	>> (namesStringFormat.js)[./javascript/namesStringFormat.js]
-	>> (nextBiggerNumber.js)[./javascript/nextBiggerNumber.js]
-	>> (observedPin.js)[./javascript/observedPin.js]
-	>> (sumStringsAsNums.js)[./javascript/sumStringsAsNums.js]
-	>> (tenMinuteWalk.js)[./javascript/tenMinuteWalk.js]
+	>> (alphabetPosition.js)[https://github.com/mladjo97/codewars/blob/master/javascript/alphabetPosition.js]
+	>> (chainAddingFunction.js)[https://github.com/mladjo97/codewars/blob/master/javascript/chainAddingFunction.js]
+	>> (humanReadableDuration.js)[https://github.com/mladjo97/codewars/blob/master/javascript/humanReadableDuration.js]
+	>> (namesStringFormat.js)[https://github.com/mladjo97/codewars/blob/master/javascript/namesStringFormat.js]
+	>> (nextBiggerNumber.js)[https://github.com/mladjo97/codewars/blob/master/javascript/nextBiggerNumber.js]
+	>> (observedPin.js)[https://github.com/mladjo97/codewars/blob/master/javascript/observedPin.js]
+	>> (sumStringsAsNums.js)[https://github.com/mladjo97/codewars/blob/master/javascript/sumStringsAsNums.js]
+	>> (tenMinuteWalk.js)[https://github.com/mladjo97/codewars/blob/master/javascript/tenMinuteWalk.js]
 
 ## Python solutions:
 	>> (detect_pangram.py)[./python/detect_pangram.py]
