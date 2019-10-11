@@ -1,7 +1,7 @@
 # Table of Content: 
 
 ## C# solutions:
-	>> [Anagrams.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/Anagrams.cs)
+	 [Anagrams.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/Anagrams.cs)
 	>> [BitCalculator.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/BitCalculator.cs)
 	>> [DeleteNth.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/DeleteNth.cs)
 	>> [Order.cs](https://github.com/mladjo97/codewars/blob/master/c-sharp/Order.cs)
