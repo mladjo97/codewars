@@ -23,11 +23,11 @@ for dirpath, dirnames, filenames in os.walk(os.getcwd()):
             continue
         
         if '.cs' in filename:
-            cs_files += '[' + filename + '](./c-sharp/' + filename + ')\n\n'
+            cs_files += '* [' + filename + '](./c-sharp/' + filename + ')\n\n'
         if '.js' in filename:
-            js_files += '[' + filename + '](./javascript/' + filename + ')\n\n'
+            js_files += '* [' + filename + '](./javascript/' + filename + ')\n\n'
         if '.py' in filename:
-            py_files += '[' + filename + '](./python/' + filename + ')\n\n'
+            py_files += '* [' + filename + '](./python/' + filename + ')\n\n'
 
 table_of_content = '# Table of Content: \n\n'
 table_of_content += '## C# solutions:\n' + cs_files + '\n'
