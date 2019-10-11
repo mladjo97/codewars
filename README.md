@@ -1,12 +1,12 @@
 # Table of Content: 
 
 ## C# solutions:
-	>> (Anagrams.cs)[https://github.com/mladjo97/codewars/c-sharp/Anagrams.cs]
-	>> (BitCalculator.cs)[https://github.com/mladjo97/codewars/c-sharp/BitCalculator.cs]
-	>> (DeleteNth.cs)[https://github.com/mladjo97/codewars/c-sharp/DeleteNth.cs]
-	>> (Order.cs)[https://github.com/mladjo97/codewars/c-sharp/Order.cs]
-	>> (RangeExtractor.cs)[https://github.com/mladjo97/codewars/c-sharp/RangeExtractor.cs]
-	>> (ValidParentheses.cs)[https://github.com/mladjo97/codewars/c-sharp/ValidParentheses.cs]
+	>> [Anagrams.cs](c-sharp/Anagrams.cs)
+	>> [BitCalculator.cs](c-sharp/BitCalculator.cs)
+	>> [DeleteNth.cs](c-sharp/DeleteNth.cs)
+	>> [Order.cs](c-sharp/Order.cs)
+	>> [RangeExtractor.cs](c-sharp/RangeExtractor.cs)
+	>> [ValidParentheses.cs](c-sharp/ValidParentheses.cs)
 
 ## JavaScript solutions:
 	>> (alphabetPosition.js)[./javascript/alphabetPosition.js]
