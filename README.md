@@ -1,4 +1,4 @@
-![Codewars profile badge](https://www.codewars.com/users/mladjo97/badges/large)# Table of Content: 
+# Table of Content: 
 
 ## C# solutions:
 * [Anagrams.cs](./c-sharp/Anagrams.cs)
@@ -10,6 +10,8 @@
 * [Order.cs](./c-sharp/Order.cs)
 
 * [RangeExtractor.cs](./c-sharp/RangeExtractor.cs)
+
+* [Snail.cs](./c-sharp/Snail.cs)
 
 * [ValidParentheses.cs](./c-sharp/ValidParentheses.cs)
 
