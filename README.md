@@ -1,4 +1,4 @@
-# Table of Content: 
+![Codewars profile badge](https://www.codewars.com/users/mladjo97/badges/large)# Table of Content: 
 
 ## C# solutions:
 * [Anagrams.cs](./c-sharp/Anagrams.cs)

@@ -9,6 +9,10 @@ try:
 except:
     print('README.me was not found.\n')
 
+# Generate first paragraph
+
+first_paragraph = '![Codewars profile badge](https://www.codewars.com/users/mladjo97/badges/large)'
+
 # Generate Table of Content
 cs_files = ''
 js_files = ''
@@ -34,10 +38,9 @@ table_of_content += '## C# solutions:\n' + cs_files + '\n'
 table_of_content += '## JavaScript solutions:\n' + js_files + '\n'
 table_of_content += '## Python solutions:\n' + py_files
 
-print(table_of_content)
-
 print('Writting to README.md file...')
 readme_file = open(readme_filepath, 'w+')
+readme_file.write(first_paragraph)
 readme_file.write(table_of_content)
 readme_file.close()
 print('Successfully generated README.md file.')
