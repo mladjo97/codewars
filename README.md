@@ -49,3 +49,8 @@
 
 * [sudoku_solver_bfs.py](./python/sudoku_solver_bfs.py)
 
+## C solutions:
+* [odd_tree_sum.c](./c/odd_tree_sum.c)
+
+* [scramblies.c](./c/scramblies.c)
+
