@@ -1,3 +1,5 @@
+// Link to kata: https://www.codewars.com/kata/scramblies/
+
 #include <stdbool.h>
 #include <stdio.h>
 
@@ -14,6 +16,6 @@ bool scramble(const char *str1, const char *str2)
         if (hash[*c - 'a'] < 0)
             return false;
     }
-    
+
     return true;
 }
