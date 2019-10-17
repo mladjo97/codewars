@@ -7,6 +7,8 @@
 
 * [DeleteNth.cs](./c-sharp/DeleteNth.cs)
 
+* [ExpandedDependencyChains.cs](./c-sharp/ExpandedDependencyChains.cs)
+
 * [Order.cs](./c-sharp/Order.cs)
 
 * [RangeExtractor.cs](./c-sharp/RangeExtractor.cs)
